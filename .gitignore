@@ -1,0 +1,8 @@
+# ignore Desktop Services Store
+*.DS_Store
+
+# ignore Python compiled files
+*.pyc 
+
+# ignore virtual environment directories
+__pycache__/
