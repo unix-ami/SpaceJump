@@ -8,4 +8,4 @@ To run from terminal:
 
 Gameplay Preview : 
 
-[![Gameplay Preview](SpaceJump-GamePlayPreview.jpg)](SpaceJump-GamePlayPreview.mp4)
+![SpaceJump gameplay preview](SpaceJump-GamePlayPreview.gif)
